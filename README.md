@@ -1,12 +1,16 @@
 # product_list_app
 
-A new Flutter project.
+Developed a fully functional e-commerce application using Flutter, BLoC/Cubit, and Firebase Authentication. The app fetches real product data from the DummyJSON API, allowing users to browse, filter, and sort products by category or price. Implemented complete cart functionality, including adding, removing, and updating product quantities with real-time total price calculation and input validation. Guest users can explore products and add items to their cart, while checkout requires authentication through Firebase. Designed a clean and responsive UI/UX with smooth navigation, proper loading/error states, and toast notifications for user actions. This project highlights strong skills in state management, API integration, and scalable Flutter architecture
 
-## Getting Started
+<p float="left">
+  <img src="assets/screenshot/product_1.png" width="250" />
+  <img src="assets/screenshot/product_3.png" width="250" />
+  <img src="assets/screenshot/product_7.png" width="250" />
+  <img src="assets/screenshot/product_10.png" width="250" />
+  <img src="assets/screenshot/product_11.png" width="250" />
+  <img src="assets/screenshot/product_12.png" width="250" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+</p>
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
